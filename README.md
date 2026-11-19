@@ -1,5 +1,8 @@
 # 👨‍💻 Anwar Pasha Shaik: AI Engineer | Gen AI & LLM Systems | AI Agents | AWS Architect
 
+- 💼 LinkedIn: [linkedin.com/in/anwar-pasha-shaik](https://www.linkedin.com/in/anwar-pasha-shaik/)
+- 📧 Email: [skanwarpasha@gmail.com](mailto:skanwarpasha@gmail.com)
+
 Hey there! Welcome to my GitHub profile 👋
 
 I'm an AI Engineer at **JPMorgan Chase** with 10+ years of building cloud-native, distributed systems. Today I design and ship production-grade AI: intelligent agents, automation workflows, and **MCP (Model Context Protocol) servers** that connect large language models to real enterprise systems.
